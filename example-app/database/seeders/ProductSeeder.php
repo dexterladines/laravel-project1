@@ -22,7 +22,7 @@ class ProductSeeder extends Seeder
             'price'=>"5999",
             "description"=>"Smartphone with 8gb RAM and much more feature",
             "category"=>'Oppo',
-            "gallery"=>"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflOkxm3ebyGIcrtZl_CwBVI6WjQf2-dYUeHreQ0S-dAhzzYBxuvQdloO4KSVCKfPpetM&usqp=CAU"
+            "gallery"=>"https://fdn2.gsmarena.com/vv/bigpic/oppo-a3s.jpg"
             ],
             [
                 'name'=>'Oppo Reno8',
