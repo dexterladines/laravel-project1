@@ -31,6 +31,16 @@
         background-color: #35443585 !important; 
         margin-left: 90px;
     }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 20%;
+    }
+    .trending-wrapper{
+        margin: 100px;
+    }
 </style>
 <!-- <script>
     $(document).ready(function()
